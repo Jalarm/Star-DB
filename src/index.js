@@ -1,3 +1,11 @@
+import React from 'react'
+import ReactDOM from "react-dom"
 import "./index.css"
-alert("master")
-alert("v2v2v2v2v2")
+const App = () => {
+    return(
+        <div>
+            <h1> Здрасте</h1>
+        </div>
+    )
+};
+ReactDOM.render(<App />,document.getElementById('root'));
