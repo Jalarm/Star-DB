@@ -1,2 +1,2 @@
 import "./index.css"
-alert("Пупсик. Я тут")
+alert("Пупсик. Я уже не тут")
