@@ -1,0 +1,17 @@
+ul.headerMenu{
+    margin: 20px;
+    padding: 0;
+
+}
+ul.headerMenu li{
+    display: inline;
+    font-size:23px;
+    margin-right: 5px;
+    padding-right: 20px;
+}
+ul.headerMenu li:nth-child(1) a{
+    color: white;
+    margin: 10px;
+    padding-right: 23px;
+    font-size:43px;
+}
