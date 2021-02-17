@@ -8,7 +8,7 @@ export default class SwapiService {
         }
         return await res.json();
     }
-
+//This is a SPARTA
     async getAllPeople() {
         const res =  await this.getResourse(`/people/`)
         return res.results;
