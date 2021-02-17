@@ -145,3 +145,4 @@ dist
 src/index.js
 /src/index.js
 git update-index --assume-unchanged /src/index.js
+/src/assa.txt
