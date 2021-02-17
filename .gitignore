@@ -22,3 +22,4 @@ yarn-debug.log*
 yarn-error.log*
 .gitignore
 !/src/Ressource/bg_01.jpg
+!/src/Components/Starships-Details/index.js
