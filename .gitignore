@@ -144,3 +144,4 @@ dist
 /.idea
 src/index.js
 /src/index.js
+git update-index --assume-unchanged /src/index.js
